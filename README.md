@@ -1,5 +1,6 @@
 # Conceptos básicos de los postprocesadores SolidCAM 👋
 Cada máquina requiere un formato de código NC diferente, dependiendo del modelo de máquina, modelo de unidad de control y tipo. El postprocesador convierte las trayectorias creadas en un sistema CAM en programas NC que pueden ser leídos por el controlador de una máquina para mover la herramienta de corte a lo largo de las trayectorias programadas, de manera segura, consistente y predecible.
+
 ![Imagen1](https://lh3.googleusercontent.com/proxy/qPW89b-PFQn4EsrTJzK9VGBZAEJJ4ZP481oNPsCjbVkBjC29tYQvsDwdXXn5NcLHDYeCejxrpvp7WJB0vtQPeg4)
 
 
